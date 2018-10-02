@@ -1,0 +1,23 @@
+{
+  "env": {
+    "node": true,
+    "jest": true
+  },
+  "extends": "airbnb",
+  "rules" : {
+    "indent": [
+      2,
+      2,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "max-len": [
+      1,
+      100
+    ],
+    "global-require": 0,
+    "import/no-dynamic-require": 0,
+    "no-extend-native": 0
+  }
+}

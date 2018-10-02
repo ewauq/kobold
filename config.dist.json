@@ -1,0 +1,6 @@
+{
+  "token": "discord bot token here",
+  "command_prefix": "!",
+  "verbose": false,
+  "debug": false
+}
